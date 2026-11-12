@@ -1,0 +1,685 @@
+level,energy,observable,linkages,context,r,n
+between systems (diff vs control),DELTA TOTAL,ellip 15:N4–H···6:O6,all,GC,0.2158,17
+between systems (diff vs control),DELTA TOTAL,ellip 15:N4–H···6:O6,all,all,0.2158,17
+between systems (diff vs control),DELTA TOTAL,ellip 15:N4–H···6:O6,anionic,GC,0.1358,13
+between systems (diff vs control),DELTA TOTAL,ellip 15:N4–H···6:O6,anionic,all,0.1358,13
+between systems (diff vs control),DELTA TOTAL,ellip 17:C2–H···6:O2,all,U,0.4494,12
+between systems (diff vs control),DELTA TOTAL,ellip 17:C2–H···6:O2,all,all,0.4494,12
+between systems (diff vs control),DELTA TOTAL,ellip 17:C2–H···6:O2,anionic,U,0.4852,8
+between systems (diff vs control),DELTA TOTAL,ellip 17:C2–H···6:O2,anionic,all,0.4852,8
+between systems (diff vs control),DELTA TOTAL,ellip 17:N3–H···6:N1,all,A,-0.03851,17
+between systems (diff vs control),DELTA TOTAL,ellip 17:N3–H···6:N1,all,all,-0.03851,17
+between systems (diff vs control),DELTA TOTAL,ellip 17:N3–H···6:N1,anionic,A,0.2456,13
+between systems (diff vs control),DELTA TOTAL,ellip 17:N3–H···6:N1,anionic,all,0.2456,13
+between systems (diff vs control),DELTA TOTAL,ellip 17:N6–H···6:O4,all,U,0.334,12
+between systems (diff vs control),DELTA TOTAL,ellip 17:N6–H···6:O4,all,all,0.334,12
+between systems (diff vs control),DELTA TOTAL,ellip 17:N6–H···6:O4,anionic,U,0.6279,8
+between systems (diff vs control),DELTA TOTAL,ellip 17:N6–H···6:O4,anionic,all,0.6279,8
+between systems (diff vs control),DELTA TOTAL,ellip 6:C2–H···17:O2,all,A,0.1998,17
+between systems (diff vs control),DELTA TOTAL,ellip 6:C2–H···17:O2,all,all,0.1998,17
+between systems (diff vs control),DELTA TOTAL,ellip 6:C2–H···17:O2,anionic,A,0.05578,13
+between systems (diff vs control),DELTA TOTAL,ellip 6:C2–H···17:O2,anionic,all,0.05578,13
+between systems (diff vs control),DELTA TOTAL,ellip 6:N1–H···15:N3,all,GC,0.184,17
+between systems (diff vs control),DELTA TOTAL,ellip 6:N1–H···15:N3,all,all,0.184,17
+between systems (diff vs control),DELTA TOTAL,ellip 6:N1–H···15:N3,anionic,GC,-0.2209,13
+between systems (diff vs control),DELTA TOTAL,ellip 6:N1–H···15:N3,anionic,all,-0.2209,13
+between systems (diff vs control),DELTA TOTAL,ellip 6:N2–H···15:O2,all,GC,0.4842,17
+between systems (diff vs control),DELTA TOTAL,ellip 6:N2–H···15:O2,all,all,0.4842,17
+between systems (diff vs control),DELTA TOTAL,ellip 6:N2–H···15:O2,anionic,GC,0.198,13
+between systems (diff vs control),DELTA TOTAL,ellip 6:N2–H···15:O2,anionic,all,0.198,13
+between systems (diff vs control),DELTA TOTAL,ellip 6:N3–H···17:N1,all,U,0.8451,12
+between systems (diff vs control),DELTA TOTAL,ellip 6:N3–H···17:N1,all,all,0.8451,12
+between systems (diff vs control),DELTA TOTAL,ellip 6:N3–H···17:N1,anionic,U,0.689,8
+between systems (diff vs control),DELTA TOTAL,ellip 6:N3–H···17:N1,anionic,all,0.689,8
+between systems (diff vs control),DELTA TOTAL,ellip 6:N6–H···17:O4,all,A,0.2763,17
+between systems (diff vs control),DELTA TOTAL,ellip 6:N6–H···17:O4,all,all,0.2763,17
+between systems (diff vs control),DELTA TOTAL,ellip 6:N6–H···17:O4,anionic,A,0.5787,13
+between systems (diff vs control),DELTA TOTAL,ellip 6:N6–H···17:O4,anionic,all,0.5787,13
+between systems (diff vs control),DELTA TOTAL,q partner,all,U,-0.2813,12
+between systems (diff vs control),DELTA TOTAL,q partner,all,A,0.08067,17
+between systems (diff vs control),DELTA TOTAL,q partner,all,GC,-0.3181,17
+between systems (diff vs control),DELTA TOTAL,q partner,all,all,-0.176,46
+between systems (diff vs control),DELTA TOTAL,q partner,anionic,U,-0.3447,8
+between systems (diff vs control),DELTA TOTAL,q partner,anionic,A,0.3172,13
+between systems (diff vs control),DELTA TOTAL,q partner,anionic,GC,-0.4724,13
+between systems (diff vs control),DELTA TOTAL,q partner,anionic,all,-0.3369,34
+between systems (diff vs control),DELTA TOTAL,q6 base,all,U,0.07208,12
+between systems (diff vs control),DELTA TOTAL,q6 base,all,A,0.2177,17
+between systems (diff vs control),DELTA TOTAL,q6 base,all,GC,0.06307,17
+between systems (diff vs control),DELTA TOTAL,q6 base,all,all,0.1053,46
+between systems (diff vs control),DELTA TOTAL,q6 base,anionic,U,0.09712,8
+between systems (diff vs control),DELTA TOTAL,q6 base,anionic,A,0.2698,13
+between systems (diff vs control),DELTA TOTAL,q6 base,anionic,GC,0.1122,13
+between systems (diff vs control),DELTA TOTAL,q6 base,anionic,all,0.1588,34
+between systems (diff vs control),DELTA TOTAL,q6 linkage,all,U,-0.9023,12
+between systems (diff vs control),DELTA TOTAL,q6 linkage,all,A,-0.7816,17
+between systems (diff vs control),DELTA TOTAL,q6 linkage,all,GC,-0.8177,17
+between systems (diff vs control),DELTA TOTAL,q6 linkage,all,all,-0.8114,46
+between systems (diff vs control),DELTA TOTAL,q6 linkage,anionic,U,0.5028,8
+between systems (diff vs control),DELTA TOTAL,q6 linkage,anionic,A,0.2351,13
+between systems (diff vs control),DELTA TOTAL,q6 linkage,anionic,GC,0.05431,13
+between systems (diff vs control),DELTA TOTAL,q6 linkage,anionic,all,0.2342,34
+between systems (diff vs control),DELTA TOTAL,q6 nucleotide,all,U,-0.9032,12
+between systems (diff vs control),DELTA TOTAL,q6 nucleotide,all,A,-0.7786,17
+between systems (diff vs control),DELTA TOTAL,q6 nucleotide,all,GC,-0.8169,17
+between systems (diff vs control),DELTA TOTAL,q6 nucleotide,all,all,-0.8101,46
+between systems (diff vs control),DELTA TOTAL,q6 nucleotide,anionic,U,0.4965,8
+between systems (diff vs control),DELTA TOTAL,q6 nucleotide,anionic,A,0.5069,13
+between systems (diff vs control),DELTA TOTAL,q6 nucleotide,anionic,GC,0.2451,13
+between systems (diff vs control),DELTA TOTAL,q6 nucleotide,anionic,all,0.4234,34
+between systems (diff vs control),DELTA TOTAL,q6 sugar,all,U,-0.7624,12
+between systems (diff vs control),DELTA TOTAL,q6 sugar,all,A,-0.5822,17
+between systems (diff vs control),DELTA TOTAL,q6 sugar,all,GC,-0.6075,17
+between systems (diff vs control),DELTA TOTAL,q6 sugar,all,all,-0.6095,46
+between systems (diff vs control),DELTA TOTAL,q6 sugar,anionic,U,-0.3037,8
+between systems (diff vs control),DELTA TOTAL,q6 sugar,anionic,A,-0.1312,13
+between systems (diff vs control),DELTA TOTAL,q6 sugar,anionic,GC,0.01418,13
+between systems (diff vs control),DELTA TOTAL,q6 sugar,anionic,all,-0.08797,34
+between systems (diff vs control),DELTA TOTAL,rho 15:N4–H···6:O6,all,GC,-0.2931,17
+between systems (diff vs control),DELTA TOTAL,rho 15:N4–H···6:O6,all,all,-0.2931,17
+between systems (diff vs control),DELTA TOTAL,rho 15:N4–H···6:O6,anionic,GC,0.4265,13
+between systems (diff vs control),DELTA TOTAL,rho 15:N4–H···6:O6,anionic,all,0.4265,13
+between systems (diff vs control),DELTA TOTAL,rho 17:C2–H···6:O2,all,U,-0.6756,12
+between systems (diff vs control),DELTA TOTAL,rho 17:C2–H···6:O2,all,all,-0.6756,12
+between systems (diff vs control),DELTA TOTAL,rho 17:C2–H···6:O2,anionic,U,-0.09985,8
+between systems (diff vs control),DELTA TOTAL,rho 17:C2–H···6:O2,anionic,all,-0.09985,8
+between systems (diff vs control),DELTA TOTAL,rho 17:N3–H···6:N1,all,A,0.1598,17
+between systems (diff vs control),DELTA TOTAL,rho 17:N3–H···6:N1,all,all,0.1598,17
+between systems (diff vs control),DELTA TOTAL,rho 17:N3–H···6:N1,anionic,A,0.4566,13
+between systems (diff vs control),DELTA TOTAL,rho 17:N3–H···6:N1,anionic,all,0.4566,13
+between systems (diff vs control),DELTA TOTAL,rho 17:N6–H···6:O4,all,U,0.1433,12
+between systems (diff vs control),DELTA TOTAL,rho 17:N6–H···6:O4,all,all,0.1433,12
+between systems (diff vs control),DELTA TOTAL,rho 17:N6–H···6:O4,anionic,U,0.3123,8
+between systems (diff vs control),DELTA TOTAL,rho 17:N6–H···6:O4,anionic,all,0.3123,8
+between systems (diff vs control),DELTA TOTAL,rho 6:C2–H···17:O2,all,A,0.007062,17
+between systems (diff vs control),DELTA TOTAL,rho 6:C2–H···17:O2,all,all,0.007062,17
+between systems (diff vs control),DELTA TOTAL,rho 6:C2–H···17:O2,anionic,A,-0.09605,13
+between systems (diff vs control),DELTA TOTAL,rho 6:C2–H···17:O2,anionic,all,-0.09605,13
+between systems (diff vs control),DELTA TOTAL,rho 6:N1–H···15:N3,all,GC,-0.09388,17
+between systems (diff vs control),DELTA TOTAL,rho 6:N1–H···15:N3,all,all,-0.09388,17
+between systems (diff vs control),DELTA TOTAL,rho 6:N1–H···15:N3,anionic,GC,0.2949,13
+between systems (diff vs control),DELTA TOTAL,rho 6:N1–H···15:N3,anionic,all,0.2949,13
+between systems (diff vs control),DELTA TOTAL,rho 6:N2–H···15:O2,all,GC,-0.3732,17
+between systems (diff vs control),DELTA TOTAL,rho 6:N2–H···15:O2,all,all,-0.3732,17
+between systems (diff vs control),DELTA TOTAL,rho 6:N2–H···15:O2,anionic,GC,-0.2906,13
+between systems (diff vs control),DELTA TOTAL,rho 6:N2–H···15:O2,anionic,all,-0.2906,13
+between systems (diff vs control),DELTA TOTAL,rho 6:N3–H···17:N1,all,U,-0.6735,12
+between systems (diff vs control),DELTA TOTAL,rho 6:N3–H···17:N1,all,all,-0.6735,12
+between systems (diff vs control),DELTA TOTAL,rho 6:N3–H···17:N1,anionic,U,-0.2994,8
+between systems (diff vs control),DELTA TOTAL,rho 6:N3–H···17:N1,anionic,all,-0.2994,8
+between systems (diff vs control),DELTA TOTAL,rho 6:N6–H···17:O4,all,A,0.2084,17
+between systems (diff vs control),DELTA TOTAL,rho 6:N6–H···17:O4,all,all,0.2084,17
+between systems (diff vs control),DELTA TOTAL,rho 6:N6–H···17:O4,anionic,A,0.4463,13
+between systems (diff vs control),DELTA TOTAL,rho 6:N6–H···17:O4,anionic,all,0.4463,13
+between systems (diff vs control),DELTA TOTAL,rho sum,all,U,-0.4061,12
+between systems (diff vs control),DELTA TOTAL,rho sum,all,A,0.584,17
+between systems (diff vs control),DELTA TOTAL,rho sum,all,GC,-0.5202,17
+between systems (diff vs control),DELTA TOTAL,rho sum,all,all,-0.1029,46
+between systems (diff vs control),DELTA TOTAL,rho sum,anionic,U,0.4432,8
+between systems (diff vs control),DELTA TOTAL,rho sum,anionic,A,0.8355,13
+between systems (diff vs control),DELTA TOTAL,rho sum,anionic,GC,0.2975,13
+between systems (diff vs control),DELTA TOTAL,rho sum,anionic,all,0.55,34
+between systems (diff vs control),VDWAALS,ellip 15:N4–H···6:O6,all,GC,-0.2166,17
+between systems (diff vs control),VDWAALS,ellip 15:N4–H···6:O6,all,all,-0.2166,17
+between systems (diff vs control),VDWAALS,ellip 15:N4–H···6:O6,anionic,GC,-0.2656,13
+between systems (diff vs control),VDWAALS,ellip 15:N4–H···6:O6,anionic,all,-0.2656,13
+between systems (diff vs control),VDWAALS,ellip 17:C2–H···6:O2,all,U,-0.0389,12
+between systems (diff vs control),VDWAALS,ellip 17:C2–H···6:O2,all,all,-0.0389,12
+between systems (diff vs control),VDWAALS,ellip 17:C2–H···6:O2,anionic,U,0.08666,8
+between systems (diff vs control),VDWAALS,ellip 17:C2–H···6:O2,anionic,all,0.08666,8
+between systems (diff vs control),VDWAALS,ellip 17:N3–H···6:N1,all,A,-0.0967,17
+between systems (diff vs control),VDWAALS,ellip 17:N3–H···6:N1,all,all,-0.0967,17
+between systems (diff vs control),VDWAALS,ellip 17:N3–H···6:N1,anionic,A,-0.1288,13
+between systems (diff vs control),VDWAALS,ellip 17:N3–H···6:N1,anionic,all,-0.1288,13
+between systems (diff vs control),VDWAALS,ellip 17:N6–H···6:O4,all,U,0.2421,12
+between systems (diff vs control),VDWAALS,ellip 17:N6–H···6:O4,all,all,0.2421,12
+between systems (diff vs control),VDWAALS,ellip 17:N6–H···6:O4,anionic,U,0.4562,8
+between systems (diff vs control),VDWAALS,ellip 17:N6–H···6:O4,anionic,all,0.4562,8
+between systems (diff vs control),VDWAALS,ellip 6:C2–H···17:O2,all,A,0.03564,17
+between systems (diff vs control),VDWAALS,ellip 6:C2–H···17:O2,all,all,0.03564,17
+between systems (diff vs control),VDWAALS,ellip 6:C2–H···17:O2,anionic,A,-0.004584,13
+between systems (diff vs control),VDWAALS,ellip 6:C2–H···17:O2,anionic,all,-0.004584,13
+between systems (diff vs control),VDWAALS,ellip 6:N1–H···15:N3,all,GC,-0.1147,17
+between systems (diff vs control),VDWAALS,ellip 6:N1–H···15:N3,all,all,-0.1147,17
+between systems (diff vs control),VDWAALS,ellip 6:N1–H···15:N3,anionic,GC,-0.3953,13
+between systems (diff vs control),VDWAALS,ellip 6:N1–H···15:N3,anionic,all,-0.3953,13
+between systems (diff vs control),VDWAALS,ellip 6:N2–H···15:O2,all,GC,-0.3857,17
+between systems (diff vs control),VDWAALS,ellip 6:N2–H···15:O2,all,all,-0.3857,17
+between systems (diff vs control),VDWAALS,ellip 6:N2–H···15:O2,anionic,GC,-0.3217,13
+between systems (diff vs control),VDWAALS,ellip 6:N2–H···15:O2,anionic,all,-0.3217,13
+between systems (diff vs control),VDWAALS,ellip 6:N3–H···17:N1,all,U,-0.2686,12
+between systems (diff vs control),VDWAALS,ellip 6:N3–H···17:N1,all,all,-0.2686,12
+between systems (diff vs control),VDWAALS,ellip 6:N3–H···17:N1,anionic,U,-0.1759,8
+between systems (diff vs control),VDWAALS,ellip 6:N3–H···17:N1,anionic,all,-0.1759,8
+between systems (diff vs control),VDWAALS,ellip 6:N6–H···17:O4,all,A,0.225,17
+between systems (diff vs control),VDWAALS,ellip 6:N6–H···17:O4,all,all,0.225,17
+between systems (diff vs control),VDWAALS,ellip 6:N6–H···17:O4,anionic,A,0.2734,13
+between systems (diff vs control),VDWAALS,ellip 6:N6–H···17:O4,anionic,all,0.2734,13
+between systems (diff vs control),VDWAALS,q partner,all,U,-0.03786,12
+between systems (diff vs control),VDWAALS,q partner,all,A,0.1629,17
+between systems (diff vs control),VDWAALS,q partner,all,GC,0.2311,17
+between systems (diff vs control),VDWAALS,q partner,all,all,0.09971,46
+between systems (diff vs control),VDWAALS,q partner,anionic,U,-0.0456,8
+between systems (diff vs control),VDWAALS,q partner,anionic,A,0.154,13
+between systems (diff vs control),VDWAALS,q partner,anionic,GC,0.05003,13
+between systems (diff vs control),VDWAALS,q partner,anionic,all,0.08873,34
+between systems (diff vs control),VDWAALS,q6 base,all,U,-0.2466,12
+between systems (diff vs control),VDWAALS,q6 base,all,A,0.1823,17
+between systems (diff vs control),VDWAALS,q6 base,all,GC,-0.08698,17
+between systems (diff vs control),VDWAALS,q6 base,all,all,-0.01532,46
+between systems (diff vs control),VDWAALS,q6 base,anionic,U,-0.3872,8
+between systems (diff vs control),VDWAALS,q6 base,anionic,A,0.2143,13
+between systems (diff vs control),VDWAALS,q6 base,anionic,GC,-0.05133,13
+between systems (diff vs control),VDWAALS,q6 base,anionic,all,-0.01137,34
+between systems (diff vs control),VDWAALS,q6 linkage,all,U,0.2576,12
+between systems (diff vs control),VDWAALS,q6 linkage,all,A,-0.05768,17
+between systems (diff vs control),VDWAALS,q6 linkage,all,GC,0.421,17
+between systems (diff vs control),VDWAALS,q6 linkage,all,all,0.1643,46
+between systems (diff vs control),VDWAALS,q6 linkage,anionic,U,0.6456,8
+between systems (diff vs control),VDWAALS,q6 linkage,anionic,A,0.144,13
+between systems (diff vs control),VDWAALS,q6 linkage,anionic,GC,0.2673,13
+between systems (diff vs control),VDWAALS,q6 linkage,anionic,all,0.1919,34
+between systems (diff vs control),VDWAALS,q6 nucleotide,all,U,0.2537,12
+between systems (diff vs control),VDWAALS,q6 nucleotide,all,A,-0.05696,17
+between systems (diff vs control),VDWAALS,q6 nucleotide,all,GC,0.4252,17
+between systems (diff vs control),VDWAALS,q6 nucleotide,all,all,0.1665,46
+between systems (diff vs control),VDWAALS,q6 nucleotide,anionic,U,0.2969,8
+between systems (diff vs control),VDWAALS,q6 nucleotide,anionic,A,0.3285,13
+between systems (diff vs control),VDWAALS,q6 nucleotide,anionic,GC,0.3451,13
+between systems (diff vs control),VDWAALS,q6 nucleotide,anionic,all,0.2173,34
+between systems (diff vs control),VDWAALS,q6 sugar,all,U,0.1832,12
+between systems (diff vs control),VDWAALS,q6 sugar,all,A,-0.07874,17
+between systems (diff vs control),VDWAALS,q6 sugar,all,GC,0.4388,17
+between systems (diff vs control),VDWAALS,q6 sugar,all,all,0.1814,46
+between systems (diff vs control),VDWAALS,q6 sugar,anionic,U,-0.2421,8
+between systems (diff vs control),VDWAALS,q6 sugar,anionic,A,-0.1003,13
+between systems (diff vs control),VDWAALS,q6 sugar,anionic,GC,-0.01354,13
+between systems (diff vs control),VDWAALS,q6 sugar,anionic,all,-0.05826,34
+between systems (diff vs control),VDWAALS,rho 15:N4–H···6:O6,all,GC,0.4193,17
+between systems (diff vs control),VDWAALS,rho 15:N4–H···6:O6,all,all,0.4193,17
+between systems (diff vs control),VDWAALS,rho 15:N4–H···6:O6,anionic,GC,0.3342,13
+between systems (diff vs control),VDWAALS,rho 15:N4–H···6:O6,anionic,all,0.3342,13
+between systems (diff vs control),VDWAALS,rho 17:C2–H···6:O2,all,U,0.08907,12
+between systems (diff vs control),VDWAALS,rho 17:C2–H···6:O2,all,all,0.08907,12
+between systems (diff vs control),VDWAALS,rho 17:C2–H···6:O2,anionic,U,-0.3995,8
+between systems (diff vs control),VDWAALS,rho 17:C2–H···6:O2,anionic,all,-0.3995,8
+between systems (diff vs control),VDWAALS,rho 17:N3–H···6:N1,all,A,0.5308,17
+between systems (diff vs control),VDWAALS,rho 17:N3–H···6:N1,all,all,0.5308,17
+between systems (diff vs control),VDWAALS,rho 17:N3–H···6:N1,anionic,A,0.6809,13
+between systems (diff vs control),VDWAALS,rho 17:N3–H···6:N1,anionic,all,0.6809,13
+between systems (diff vs control),VDWAALS,rho 17:N6–H···6:O4,all,U,0.5936,12
+between systems (diff vs control),VDWAALS,rho 17:N6–H···6:O4,all,all,0.5936,12
+between systems (diff vs control),VDWAALS,rho 17:N6–H···6:O4,anionic,U,0.6781,8
+between systems (diff vs control),VDWAALS,rho 17:N6–H···6:O4,anionic,all,0.6781,8
+between systems (diff vs control),VDWAALS,rho 6:C2–H···17:O2,all,A,-0.3567,17
+between systems (diff vs control),VDWAALS,rho 6:C2–H···17:O2,all,all,-0.3567,17
+between systems (diff vs control),VDWAALS,rho 6:C2–H···17:O2,anionic,A,-0.3548,13
+between systems (diff vs control),VDWAALS,rho 6:C2–H···17:O2,anionic,all,-0.3548,13
+between systems (diff vs control),VDWAALS,rho 6:N1–H···15:N3,all,GC,0.6659,17
+between systems (diff vs control),VDWAALS,rho 6:N1–H···15:N3,all,all,0.6659,17
+between systems (diff vs control),VDWAALS,rho 6:N1–H···15:N3,anionic,GC,0.5821,13
+between systems (diff vs control),VDWAALS,rho 6:N1–H···15:N3,anionic,all,0.5821,13
+between systems (diff vs control),VDWAALS,rho 6:N2–H···15:O2,all,GC,0.5202,17
+between systems (diff vs control),VDWAALS,rho 6:N2–H···15:O2,all,all,0.5202,17
+between systems (diff vs control),VDWAALS,rho 6:N2–H···15:O2,anionic,GC,0.2305,13
+between systems (diff vs control),VDWAALS,rho 6:N2–H···15:O2,anionic,all,0.2305,13
+between systems (diff vs control),VDWAALS,rho 6:N3–H···17:N1,all,U,0.3955,12
+between systems (diff vs control),VDWAALS,rho 6:N3–H···17:N1,all,all,0.3955,12
+between systems (diff vs control),VDWAALS,rho 6:N3–H···17:N1,anionic,U,0.3531,8
+between systems (diff vs control),VDWAALS,rho 6:N3–H···17:N1,anionic,all,0.3531,8
+between systems (diff vs control),VDWAALS,rho 6:N6–H···17:O4,all,A,0.7489,17
+between systems (diff vs control),VDWAALS,rho 6:N6–H···17:O4,all,all,0.7489,17
+between systems (diff vs control),VDWAALS,rho 6:N6–H···17:O4,anionic,A,0.7892,13
+between systems (diff vs control),VDWAALS,rho 6:N6–H···17:O4,anionic,all,0.7892,13
+between systems (diff vs control),VDWAALS,rho sum,all,U,0.8631,12
+between systems (diff vs control),VDWAALS,rho sum,all,A,0.8772,17
+between systems (diff vs control),VDWAALS,rho sum,all,GC,0.9043,17
+between systems (diff vs control),VDWAALS,rho sum,all,all,0.8527,46
+between systems (diff vs control),VDWAALS,rho sum,anionic,U,0.9904,8
+between systems (diff vs control),VDWAALS,rho sum,anionic,A,0.9165,13
+between systems (diff vs control),VDWAALS,rho sum,anionic,GC,0.8654,13
+between systems (diff vs control),VDWAALS,rho sum,anionic,all,0.9027,34
+between systems (diff vs control),EEL,ellip 15:N4–H···6:O6,all,GC,0.13,17
+between systems (diff vs control),EEL,ellip 15:N4–H···6:O6,all,all,0.13,17
+between systems (diff vs control),EEL,ellip 15:N4–H···6:O6,anionic,GC,0.187,13
+between systems (diff vs control),EEL,ellip 15:N4–H···6:O6,anionic,all,0.187,13
+between systems (diff vs control),EEL,ellip 17:C2–H···6:O2,all,U,0.2815,12
+between systems (diff vs control),EEL,ellip 17:C2–H···6:O2,all,all,0.2815,12
+between systems (diff vs control),EEL,ellip 17:C2–H···6:O2,anionic,U,-0.2741,8
+between systems (diff vs control),EEL,ellip 17:C2–H···6:O2,anionic,all,-0.2741,8
+between systems (diff vs control),EEL,ellip 17:N3–H···6:N1,all,A,-0.1093,17
+between systems (diff vs control),EEL,ellip 17:N3–H···6:N1,all,all,-0.1093,17
+between systems (diff vs control),EEL,ellip 17:N3–H···6:N1,anionic,A,0.3324,13
+between systems (diff vs control),EEL,ellip 17:N3–H···6:N1,anionic,all,0.3324,13
+between systems (diff vs control),EEL,ellip 17:N6–H···6:O4,all,U,0.1633,12
+between systems (diff vs control),EEL,ellip 17:N6–H···6:O4,all,all,0.1633,12
+between systems (diff vs control),EEL,ellip 17:N6–H···6:O4,anionic,U,0.6343,8
+between systems (diff vs control),EEL,ellip 17:N6–H···6:O4,anionic,all,0.6343,8
+between systems (diff vs control),EEL,ellip 6:C2–H···17:O2,all,A,0.271,17
+between systems (diff vs control),EEL,ellip 6:C2–H···17:O2,all,all,0.271,17
+between systems (diff vs control),EEL,ellip 6:C2–H···17:O2,anionic,A,-0.1858,13
+between systems (diff vs control),EEL,ellip 6:C2–H···17:O2,anionic,all,-0.1858,13
+between systems (diff vs control),EEL,ellip 6:N1–H···15:N3,all,GC,0.1251,17
+between systems (diff vs control),EEL,ellip 6:N1–H···15:N3,all,all,0.1251,17
+between systems (diff vs control),EEL,ellip 6:N1–H···15:N3,anionic,GC,-0.3028,13
+between systems (diff vs control),EEL,ellip 6:N1–H···15:N3,anionic,all,-0.3028,13
+between systems (diff vs control),EEL,ellip 6:N2–H···15:O2,all,GC,0.3183,17
+between systems (diff vs control),EEL,ellip 6:N2–H···15:O2,all,all,0.3183,17
+between systems (diff vs control),EEL,ellip 6:N2–H···15:O2,anionic,GC,0.1866,13
+between systems (diff vs control),EEL,ellip 6:N2–H···15:O2,anionic,all,0.1866,13
+between systems (diff vs control),EEL,ellip 6:N3–H···17:N1,all,U,0.713,12
+between systems (diff vs control),EEL,ellip 6:N3–H···17:N1,all,all,0.713,12
+between systems (diff vs control),EEL,ellip 6:N3–H···17:N1,anionic,U,0.2708,8
+between systems (diff vs control),EEL,ellip 6:N3–H···17:N1,anionic,all,0.2708,8
+between systems (diff vs control),EEL,ellip 6:N6–H···17:O4,all,A,-0.08197,17
+between systems (diff vs control),EEL,ellip 6:N6–H···17:O4,all,all,-0.08197,17
+between systems (diff vs control),EEL,ellip 6:N6–H···17:O4,anionic,A,0.08673,13
+between systems (diff vs control),EEL,ellip 6:N6–H···17:O4,anionic,all,0.08673,13
+between systems (diff vs control),EEL,q partner,all,U,-0.1252,12
+between systems (diff vs control),EEL,q partner,all,A,0.1036,17
+between systems (diff vs control),EEL,q partner,all,GC,-0.2031,17
+between systems (diff vs control),EEL,q partner,all,all,-0.06754,46
+between systems (diff vs control),EEL,q partner,anionic,U,0.6099,8
+between systems (diff vs control),EEL,q partner,anionic,A,-0.05955,13
+between systems (diff vs control),EEL,q partner,anionic,GC,-0.1365,13
+between systems (diff vs control),EEL,q partner,anionic,all,-0.1195,34
+between systems (diff vs control),EEL,q6 base,all,U,0.03405,12
+between systems (diff vs control),EEL,q6 base,all,A,0.0687,17
+between systems (diff vs control),EEL,q6 base,all,GC,0.1241,17
+between systems (diff vs control),EEL,q6 base,all,all,0.08501,46
+between systems (diff vs control),EEL,q6 base,anionic,U,0.518,8
+between systems (diff vs control),EEL,q6 base,anionic,A,-0.08824,13
+between systems (diff vs control),EEL,q6 base,anionic,GC,0.7847,13
+between systems (diff vs control),EEL,q6 base,anionic,all,0.3733,34
+between systems (diff vs control),EEL,q6 linkage,all,U,-0.9975,12
+between systems (diff vs control),EEL,q6 linkage,all,A,-0.9961,17
+between systems (diff vs control),EEL,q6 linkage,all,GC,-0.9934,17
+between systems (diff vs control),EEL,q6 linkage,all,all,-0.9945,46
+between systems (diff vs control),EEL,q6 linkage,anionic,U,0.06196,8
+between systems (diff vs control),EEL,q6 linkage,anionic,A,0.3858,13
+between systems (diff vs control),EEL,q6 linkage,anionic,GC,0.4508,13
+between systems (diff vs control),EEL,q6 linkage,anionic,all,0.4118,34
+between systems (diff vs control),EEL,q6 nucleotide,all,U,-0.9986,12
+between systems (diff vs control),EEL,q6 nucleotide,all,A,-0.9976,17
+between systems (diff vs control),EEL,q6 nucleotide,all,GC,-0.9951,17
+between systems (diff vs control),EEL,q6 nucleotide,all,all,-0.9961,46
+between systems (diff vs control),EEL,q6 nucleotide,anionic,U,-0.1001,8
+between systems (diff vs control),EEL,q6 nucleotide,anionic,A,0.2091,13
+between systems (diff vs control),EEL,q6 nucleotide,anionic,GC,0.2958,13
+between systems (diff vs control),EEL,q6 nucleotide,anionic,all,0.29,34
+between systems (diff vs control),EEL,q6 sugar,all,U,-0.8277,12
+between systems (diff vs control),EEL,q6 sugar,all,A,-0.8026,17
+between systems (diff vs control),EEL,q6 sugar,all,GC,-0.8162,17
+between systems (diff vs control),EEL,q6 sugar,all,all,-0.8095,46
+between systems (diff vs control),EEL,q6 sugar,anionic,U,-0.5274,8
+between systems (diff vs control),EEL,q6 sugar,anionic,A,-0.2233,13
+between systems (diff vs control),EEL,q6 sugar,anionic,GC,-0.8034,13
+between systems (diff vs control),EEL,q6 sugar,anionic,all,-0.5012,34
+between systems (diff vs control),EEL,rho 15:N4–H···6:O6,all,GC,-0.3413,17
+between systems (diff vs control),EEL,rho 15:N4–H···6:O6,all,all,-0.3413,17
+between systems (diff vs control),EEL,rho 15:N4–H···6:O6,anionic,GC,-0.05102,13
+between systems (diff vs control),EEL,rho 15:N4–H···6:O6,anionic,all,-0.05102,13
+between systems (diff vs control),EEL,rho 17:C2–H···6:O2,all,U,-0.7405,12
+between systems (diff vs control),EEL,rho 17:C2–H···6:O2,all,all,-0.7405,12
+between systems (diff vs control),EEL,rho 17:C2–H···6:O2,anionic,U,0.41,8
+between systems (diff vs control),EEL,rho 17:C2–H···6:O2,anionic,all,0.41,8
+between systems (diff vs control),EEL,rho 17:N3–H···6:N1,all,A,-0.2092,17
+between systems (diff vs control),EEL,rho 17:N3–H···6:N1,all,all,-0.2092,17
+between systems (diff vs control),EEL,rho 17:N3–H···6:N1,anionic,A,-0.1065,13
+between systems (diff vs control),EEL,rho 17:N3–H···6:N1,anionic,all,-0.1065,13
+between systems (diff vs control),EEL,rho 17:N6–H···6:O4,all,U,0.004934,12
+between systems (diff vs control),EEL,rho 17:N6–H···6:O4,all,all,0.004934,12
+between systems (diff vs control),EEL,rho 17:N6–H···6:O4,anionic,U,-0.4883,8
+between systems (diff vs control),EEL,rho 17:N6–H···6:O4,anionic,all,-0.4883,8
+between systems (diff vs control),EEL,rho 6:C2–H···17:O2,all,A,0.01179,17
+between systems (diff vs control),EEL,rho 6:C2–H···17:O2,all,all,0.01179,17
+between systems (diff vs control),EEL,rho 6:C2–H···17:O2,anionic,A,0.4586,13
+between systems (diff vs control),EEL,rho 6:C2–H···17:O2,anionic,all,0.4586,13
+between systems (diff vs control),EEL,rho 6:N1–H···15:N3,all,GC,-0.3142,17
+between systems (diff vs control),EEL,rho 6:N1–H···15:N3,all,all,-0.3142,17
+between systems (diff vs control),EEL,rho 6:N1–H···15:N3,anionic,GC,-0.277,13
+between systems (diff vs control),EEL,rho 6:N1–H···15:N3,anionic,all,-0.277,13
+between systems (diff vs control),EEL,rho 6:N2–H···15:O2,all,GC,-0.4503,17
+between systems (diff vs control),EEL,rho 6:N2–H···15:O2,all,all,-0.4503,17
+between systems (diff vs control),EEL,rho 6:N2–H···15:O2,anionic,GC,0.08201,13
+between systems (diff vs control),EEL,rho 6:N2–H···15:O2,anionic,all,0.08201,13
+between systems (diff vs control),EEL,rho 6:N3–H···17:N1,all,U,-0.6266,12
+between systems (diff vs control),EEL,rho 6:N3–H···17:N1,all,all,-0.6266,12
+between systems (diff vs control),EEL,rho 6:N3–H···17:N1,anionic,U,0.331,8
+between systems (diff vs control),EEL,rho 6:N3–H···17:N1,anionic,all,0.331,8
+between systems (diff vs control),EEL,rho 6:N6–H···17:O4,all,A,0.02567,17
+between systems (diff vs control),EEL,rho 6:N6–H···17:O4,all,all,0.02567,17
+between systems (diff vs control),EEL,rho 6:N6–H···17:O4,anionic,A,-0.4006,13
+between systems (diff vs control),EEL,rho 6:N6–H···17:O4,anionic,all,-0.4006,13
+between systems (diff vs control),EEL,rho sum,all,U,-0.6009,12
+between systems (diff vs control),EEL,rho sum,all,A,0.07946,17
+between systems (diff vs control),EEL,rho sum,all,GC,-0.6831,17
+between systems (diff vs control),EEL,rho sum,all,all,-0.295,46
+between systems (diff vs control),EEL,rho sum,anionic,U,-0.07137,8
+between systems (diff vs control),EEL,rho sum,anionic,A,-0.2294,13
+between systems (diff vs control),EEL,rho sum,anionic,GC,-0.1109,13
+between systems (diff vs control),EEL,rho sum,anionic,all,-0.1602,34
+between systems (diff vs control),EGB,ellip 15:N4–H···6:O6,all,GC,-0.1226,17
+between systems (diff vs control),EGB,ellip 15:N4–H···6:O6,all,all,-0.1226,17
+between systems (diff vs control),EGB,ellip 15:N4–H···6:O6,anionic,GC,-0.06103,13
+between systems (diff vs control),EGB,ellip 15:N4–H···6:O6,anionic,all,-0.06103,13
+between systems (diff vs control),EGB,ellip 17:C2–H···6:O2,all,U,-0.276,12
+between systems (diff vs control),EGB,ellip 17:C2–H···6:O2,all,all,-0.276,12
+between systems (diff vs control),EGB,ellip 17:C2–H···6:O2,anionic,U,0.4634,8
+between systems (diff vs control),EGB,ellip 17:C2–H···6:O2,anionic,all,0.4634,8
+between systems (diff vs control),EGB,ellip 17:N3–H···6:N1,all,A,0.1119,17
+between systems (diff vs control),EGB,ellip 17:N3–H···6:N1,all,all,0.1119,17
+between systems (diff vs control),EGB,ellip 17:N3–H···6:N1,anionic,A,-0.2253,13
+between systems (diff vs control),EGB,ellip 17:N3–H···6:N1,anionic,all,-0.2253,13
+between systems (diff vs control),EGB,ellip 17:N6–H···6:O4,all,U,-0.1624,12
+between systems (diff vs control),EGB,ellip 17:N6–H···6:O4,all,all,-0.1624,12
+between systems (diff vs control),EGB,ellip 17:N6–H···6:O4,anionic,U,-0.6112,8
+between systems (diff vs control),EGB,ellip 17:N6–H···6:O4,anionic,all,-0.6112,8
+between systems (diff vs control),EGB,ellip 6:C2–H···17:O2,all,A,-0.2717,17
+between systems (diff vs control),EGB,ellip 6:C2–H···17:O2,all,all,-0.2717,17
+between systems (diff vs control),EGB,ellip 6:C2–H···17:O2,anionic,A,0.2232,13
+between systems (diff vs control),EGB,ellip 6:C2–H···17:O2,anionic,all,0.2232,13
+between systems (diff vs control),EGB,ellip 6:N1–H···15:N3,all,GC,-0.1209,17
+between systems (diff vs control),EGB,ellip 6:N1–H···15:N3,all,all,-0.1209,17
+between systems (diff vs control),EGB,ellip 6:N1–H···15:N3,anionic,GC,0.3298,13
+between systems (diff vs control),EGB,ellip 6:N1–H···15:N3,anionic,all,0.3298,13
+between systems (diff vs control),EGB,ellip 6:N2–H···15:O2,all,GC,-0.305,17
+between systems (diff vs control),EGB,ellip 6:N2–H···15:O2,all,all,-0.305,17
+between systems (diff vs control),EGB,ellip 6:N2–H···15:O2,anionic,GC,-0.02575,13
+between systems (diff vs control),EGB,ellip 6:N2–H···15:O2,anionic,all,-0.02575,13
+between systems (diff vs control),EGB,ellip 6:N3–H···17:N1,all,U,-0.705,12
+between systems (diff vs control),EGB,ellip 6:N3–H···17:N1,all,all,-0.705,12
+between systems (diff vs control),EGB,ellip 6:N3–H···17:N1,anionic,U,0.1855,8
+between systems (diff vs control),EGB,ellip 6:N3–H···17:N1,anionic,all,0.1855,8
+between systems (diff vs control),EGB,ellip 6:N6–H···17:O4,all,A,0.08397,17
+between systems (diff vs control),EGB,ellip 6:N6–H···17:O4,all,all,0.08397,17
+between systems (diff vs control),EGB,ellip 6:N6–H···17:O4,anionic,A,-0.05949,13
+between systems (diff vs control),EGB,ellip 6:N6–H···17:O4,anionic,all,-0.05949,13
+between systems (diff vs control),EGB,q partner,all,U,0.1213,12
+between systems (diff vs control),EGB,q partner,all,A,-0.1069,17
+between systems (diff vs control),EGB,q partner,all,GC,0.1945,17
+between systems (diff vs control),EGB,q partner,all,all,0.0619,46
+between systems (diff vs control),EGB,q partner,anionic,U,-0.7563,8
+between systems (diff vs control),EGB,q partner,anionic,A,0.08051,13
+between systems (diff vs control),EGB,q partner,anionic,GC,-0.03172,13
+between systems (diff vs control),EGB,q partner,anionic,all,-0.03065,34
+between systems (diff vs control),EGB,q6 base,all,U,-0.02828,12
+between systems (diff vs control),EGB,q6 base,all,A,-0.06898,17
+between systems (diff vs control),EGB,q6 base,all,GC,-0.125,17
+between systems (diff vs control),EGB,q6 base,all,all,-0.0839,46
+between systems (diff vs control),EGB,q6 base,anionic,U,-0.2272,8
+between systems (diff vs control),EGB,q6 base,anionic,A,0.07204,13
+between systems (diff vs control),EGB,q6 base,anionic,GC,-0.6983,13
+between systems (diff vs control),EGB,q6 base,anionic,all,-0.3355,34
+between systems (diff vs control),EGB,q6 linkage,all,U,0.9975,12
+between systems (diff vs control),EGB,q6 linkage,all,A,0.996,17
+between systems (diff vs control),EGB,q6 linkage,all,GC,0.9942,17
+between systems (diff vs control),EGB,q6 linkage,all,all,0.9948,46
+between systems (diff vs control),EGB,q6 linkage,anionic,U,-0.2188,8
+between systems (diff vs control),EGB,q6 linkage,anionic,A,-0.4266,13
+between systems (diff vs control),EGB,q6 linkage,anionic,GC,-0.4874,13
+between systems (diff vs control),EGB,q6 linkage,anionic,all,-0.44,34
+between systems (diff vs control),EGB,q6 nucleotide,all,U,0.9987,12
+between systems (diff vs control),EGB,q6 nucleotide,all,A,0.9975,17
+between systems (diff vs control),EGB,q6 nucleotide,all,GC,0.9959,17
+between systems (diff vs control),EGB,q6 nucleotide,all,all,0.9964,46
+between systems (diff vs control),EGB,q6 nucleotide,anionic,U,0.1617,8
+between systems (diff vs control),EGB,q6 nucleotide,anionic,A,-0.241,13
+between systems (diff vs control),EGB,q6 nucleotide,anionic,GC,-0.3018,13
+between systems (diff vs control),EGB,q6 nucleotide,anionic,all,-0.256,34
+between systems (diff vs control),EGB,q6 sugar,all,U,0.8278,12
+between systems (diff vs control),EGB,q6 sugar,all,A,0.804,17
+between systems (diff vs control),EGB,q6 sugar,all,GC,0.8173,17
+between systems (diff vs control),EGB,q6 sugar,all,all,0.8104,46
+between systems (diff vs control),EGB,q6 sugar,anionic,U,0.5313,8
+between systems (diff vs control),EGB,q6 sugar,anionic,A,0.2571,13
+between systems (diff vs control),EGB,q6 sugar,anionic,GC,0.7738,13
+between systems (diff vs control),EGB,q6 sugar,anionic,all,0.5267,34
+between systems (diff vs control),EGB,rho 15:N4–H···6:O6,all,GC,0.3353,17
+between systems (diff vs control),EGB,rho 15:N4–H···6:O6,all,all,0.3353,17
+between systems (diff vs control),EGB,rho 15:N4–H···6:O6,anionic,GC,0.0879,13
+between systems (diff vs control),EGB,rho 15:N4–H···6:O6,anionic,all,0.0879,13
+between systems (diff vs control),EGB,rho 17:C2–H···6:O2,all,U,0.7423,12
+between systems (diff vs control),EGB,rho 17:C2–H···6:O2,all,all,0.7423,12
+between systems (diff vs control),EGB,rho 17:C2–H···6:O2,anionic,U,-0.208,8
+between systems (diff vs control),EGB,rho 17:C2–H···6:O2,anionic,all,-0.208,8
+between systems (diff vs control),EGB,rho 17:N3–H···6:N1,all,A,0.2049,17
+between systems (diff vs control),EGB,rho 17:N3–H···6:N1,all,all,0.2049,17
+between systems (diff vs control),EGB,rho 17:N3–H···6:N1,anionic,A,-0.0846,13
+between systems (diff vs control),EGB,rho 17:N3–H···6:N1,anionic,all,-0.0846,13
+between systems (diff vs control),EGB,rho 17:N6–H···6:O4,all,U,-0.01169,12
+between systems (diff vs control),EGB,rho 17:N6–H···6:O4,all,all,-0.01169,12
+between systems (diff vs control),EGB,rho 17:N6–H···6:O4,anionic,U,0.217,8
+between systems (diff vs control),EGB,rho 17:N6–H···6:O4,anionic,all,0.217,8
+between systems (diff vs control),EGB,rho 6:C2–H···17:O2,all,A,-0.004577,17
+between systems (diff vs control),EGB,rho 6:C2–H···17:O2,all,all,-0.004577,17
+between systems (diff vs control),EGB,rho 6:C2–H···17:O2,anionic,A,-0.3517,13
+between systems (diff vs control),EGB,rho 6:C2–H···17:O2,anionic,all,-0.3517,13
+between systems (diff vs control),EGB,rho 6:N1–H···15:N3,all,GC,0.3094,17
+between systems (diff vs control),EGB,rho 6:N1–H···15:N3,all,all,0.3094,17
+between systems (diff vs control),EGB,rho 6:N1–H···15:N3,anionic,GC,0.1926,13
+between systems (diff vs control),EGB,rho 6:N1–H···15:N3,anionic,all,0.1926,13
+between systems (diff vs control),EGB,rho 6:N2–H···15:O2,all,GC,0.4436,17
+between systems (diff vs control),EGB,rho 6:N2–H···15:O2,all,all,0.4436,17
+between systems (diff vs control),EGB,rho 6:N2–H···15:O2,anionic,GC,-0.2335,13
+between systems (diff vs control),EGB,rho 6:N2–H···15:O2,anionic,all,-0.2335,13
+between systems (diff vs control),EGB,rho 6:N3–H···17:N1,all,U,0.6189,12
+between systems (diff vs control),EGB,rho 6:N3–H···17:N1,all,all,0.6189,12
+between systems (diff vs control),EGB,rho 6:N3–H···17:N1,anionic,U,-0.7062,8
+between systems (diff vs control),EGB,rho 6:N3–H···17:N1,anionic,all,-0.7062,8
+between systems (diff vs control),EGB,rho 6:N6–H···17:O4,all,A,-0.03695,17
+between systems (diff vs control),EGB,rho 6:N6–H···17:O4,all,all,-0.03695,17
+between systems (diff vs control),EGB,rho 6:N6–H···17:O4,anionic,A,0.1755,13
+between systems (diff vs control),EGB,rho 6:N6–H···17:O4,anionic,all,0.1755,13
+between systems (diff vs control),EGB,rho sum,all,U,0.5921,12
+between systems (diff vs control),EGB,rho sum,all,A,-0.08657,17
+between systems (diff vs control),EGB,rho sum,all,GC,0.6722,17
+between systems (diff vs control),EGB,rho sum,all,all,0.2824,46
+between systems (diff vs control),EGB,rho sum,anionic,U,-0.3338,8
+between systems (diff vs control),EGB,rho sum,anionic,A,0.04379,13
+between systems (diff vs control),EGB,rho sum,anionic,GC,-0.04438,13
+between systems (diff vs control),EGB,rho sum,anionic,all,-0.03868,34
+between systems (diff vs control),DELTA G gas,ellip 15:N4–H···6:O6,all,GC,0.1268,17
+between systems (diff vs control),DELTA G gas,ellip 15:N4–H···6:O6,all,all,0.1268,17
+between systems (diff vs control),DELTA G gas,ellip 15:N4–H···6:O6,anionic,GC,0.1066,13
+between systems (diff vs control),DELTA G gas,ellip 15:N4–H···6:O6,anionic,all,0.1066,13
+between systems (diff vs control),DELTA G gas,ellip 17:C2–H···6:O2,all,U,0.2821,12
+between systems (diff vs control),DELTA G gas,ellip 17:C2–H···6:O2,all,all,0.2821,12
+between systems (diff vs control),DELTA G gas,ellip 17:C2–H···6:O2,anionic,U,-0.1884,8
+between systems (diff vs control),DELTA G gas,ellip 17:C2–H···6:O2,anionic,all,-0.1884,8
+between systems (diff vs control),DELTA G gas,ellip 17:N3–H···6:N1,all,A,-0.111,17
+between systems (diff vs control),DELTA G gas,ellip 17:N3–H···6:N1,all,all,-0.111,17
+between systems (diff vs control),DELTA G gas,ellip 17:N3–H···6:N1,anionic,A,0.2655,13
+between systems (diff vs control),DELTA G gas,ellip 17:N3–H···6:N1,anionic,all,0.2655,13
+between systems (diff vs control),DELTA G gas,ellip 17:N6–H···6:O4,all,U,0.1685,12
+between systems (diff vs control),DELTA G gas,ellip 17:N6–H···6:O4,all,all,0.1685,12
+between systems (diff vs control),DELTA G gas,ellip 17:N6–H···6:O4,anionic,U,0.7957,8
+between systems (diff vs control),DELTA G gas,ellip 17:N6–H···6:O4,anionic,all,0.7957,8
+between systems (diff vs control),DELTA G gas,ellip 6:C2–H···17:O2,all,A,0.2714,17
+between systems (diff vs control),DELTA G gas,ellip 6:C2–H···17:O2,all,all,0.2714,17
+between systems (diff vs control),DELTA G gas,ellip 6:C2–H···17:O2,anionic,A,-0.183,13
+between systems (diff vs control),DELTA G gas,ellip 6:C2–H···17:O2,anionic,all,-0.183,13
+between systems (diff vs control),DELTA G gas,ellip 6:N1–H···15:N3,all,GC,0.1239,17
+between systems (diff vs control),DELTA G gas,ellip 6:N1–H···15:N3,all,all,0.1239,17
+between systems (diff vs control),DELTA G gas,ellip 6:N1–H···15:N3,anionic,GC,-0.4149,13
+between systems (diff vs control),DELTA G gas,ellip 6:N1–H···15:N3,anionic,all,-0.4149,13
+between systems (diff vs control),DELTA G gas,ellip 6:N2–H···15:O2,all,GC,0.3133,17
+between systems (diff vs control),DELTA G gas,ellip 6:N2–H···15:O2,all,all,0.3133,17
+between systems (diff vs control),DELTA G gas,ellip 6:N2–H···15:O2,anionic,GC,0.08972,13
+between systems (diff vs control),DELTA G gas,ellip 6:N2–H···15:O2,anionic,all,0.08972,13
+between systems (diff vs control),DELTA G gas,ellip 6:N3–H···17:N1,all,U,0.7114,12
+between systems (diff vs control),DELTA G gas,ellip 6:N3–H···17:N1,all,all,0.7114,12
+between systems (diff vs control),DELTA G gas,ellip 6:N3–H···17:N1,anionic,U,0.1366,8
+between systems (diff vs control),DELTA G gas,ellip 6:N3–H···17:N1,anionic,all,0.1366,8
+between systems (diff vs control),DELTA G gas,ellip 6:N6–H···17:O4,all,A,-0.07744,17
+between systems (diff vs control),DELTA G gas,ellip 6:N6–H···17:O4,all,all,-0.07744,17
+between systems (diff vs control),DELTA G gas,ellip 6:N6–H···17:O4,anionic,A,0.2078,13
+between systems (diff vs control),DELTA G gas,ellip 6:N6–H···17:O4,anionic,all,0.2078,13
+between systems (diff vs control),DELTA G gas,q partner,all,U,-0.1265,12
+between systems (diff vs control),DELTA G gas,q partner,all,A,0.1067,17
+between systems (diff vs control),DELTA G gas,q partner,all,GC,-0.2002,17
+between systems (diff vs control),DELTA G gas,q partner,all,all,-0.06572,46
+between systems (diff vs control),DELTA G gas,q partner,anionic,U,0.4998,8
+between systems (diff vs control),DELTA G gas,q partner,anionic,A,0.01154,13
+between systems (diff vs control),DELTA G gas,q partner,anionic,GC,-0.1201,13
+between systems (diff vs control),DELTA G gas,q partner,anionic,all,-0.08105,34
+between systems (diff vs control),DELTA G gas,q6 base,all,U,0.02968,12
+between systems (diff vs control),DELTA G gas,q6 base,all,A,0.07219,17
+between systems (diff vs control),DELTA G gas,q6 base,all,GC,0.1235,17
+between systems (diff vs control),DELTA G gas,q6 base,all,all,0.08502,46
+between systems (diff vs control),DELTA G gas,q6 base,anionic,U,0.2335,8
+between systems (diff vs control),DELTA G gas,q6 base,anionic,A,0.01078,13
+between systems (diff vs control),DELTA G gas,q6 base,anionic,GC,0.7594,13
+between systems (diff vs control),DELTA G gas,q6 base,anionic,all,0.3641,34
+between systems (diff vs control),DELTA G gas,q6 linkage,all,U,-0.9975,12
+between systems (diff vs control),DELTA G gas,q6 linkage,all,A,-0.996,17
+between systems (diff vs control),DELTA G gas,q6 linkage,all,GC,-0.9941,17
+between systems (diff vs control),DELTA G gas,q6 linkage,all,all,-0.9949,46
+between systems (diff vs control),DELTA G gas,q6 linkage,anionic,U,0.407,8
+between systems (diff vs control),DELTA G gas,q6 linkage,anionic,A,0.4406,13
+between systems (diff vs control),DELTA G gas,q6 linkage,anionic,GC,0.5233,13
+between systems (diff vs control),DELTA G gas,q6 linkage,anionic,all,0.487,34
+between systems (diff vs control),DELTA G gas,q6 nucleotide,all,U,-0.9986,12
+between systems (diff vs control),DELTA G gas,q6 nucleotide,all,A,-0.9974,17
+between systems (diff vs control),DELTA G gas,q6 nucleotide,all,GC,-0.9957,17
+between systems (diff vs control),DELTA G gas,q6 nucleotide,all,all,-0.9964,46
+between systems (diff vs control),DELTA G gas,q6 nucleotide,anionic,U,0.0765,8
+between systems (diff vs control),DELTA G gas,q6 nucleotide,anionic,A,0.3518,13
+between systems (diff vs control),DELTA G gas,q6 nucleotide,anionic,GC,0.3932,13
+between systems (diff vs control),DELTA G gas,q6 nucleotide,anionic,all,0.3771,34
+between systems (diff vs control),DELTA G gas,q6 sugar,all,U,-0.8282,12
+between systems (diff vs control),DELTA G gas,q6 sugar,all,A,-0.8031,17
+between systems (diff vs control),DELTA G gas,q6 sugar,all,GC,-0.8148,17
+between systems (diff vs control),DELTA G gas,q6 sugar,all,all,-0.8089,46
+between systems (diff vs control),DELTA G gas,q6 sugar,anionic,U,-0.5864,8
+between systems (diff vs control),DELTA G gas,q6 sugar,anionic,A,-0.2627,13
+between systems (diff vs control),DELTA G gas,q6 sugar,anionic,GC,-0.7969,13
+between systems (diff vs control),DELTA G gas,q6 sugar,anionic,all,-0.5196,34
+between systems (diff vs control),DELTA G gas,rho 15:N4–H···6:O6,all,GC,-0.3359,17
+between systems (diff vs control),DELTA G gas,rho 15:N4–H···6:O6,all,all,-0.3359,17
+between systems (diff vs control),DELTA G gas,rho 15:N4–H···6:O6,anionic,GC,0.0477,13
+between systems (diff vs control),DELTA G gas,rho 15:N4–H···6:O6,anionic,all,0.0477,13
+between systems (diff vs control),DELTA G gas,rho 17:C2–H···6:O2,all,U,-0.7424,12
+between systems (diff vs control),DELTA G gas,rho 17:C2–H···6:O2,all,all,-0.7424,12
+between systems (diff vs control),DELTA G gas,rho 17:C2–H···6:O2,anionic,U,0.1339,8
+between systems (diff vs control),DELTA G gas,rho 17:C2–H···6:O2,anionic,all,0.1339,8
+between systems (diff vs control),DELTA G gas,rho 17:N3–H···6:N1,all,A,-0.1985,17
+between systems (diff vs control),DELTA G gas,rho 17:N3–H···6:N1,all,all,-0.1985,17
+between systems (diff vs control),DELTA G gas,rho 17:N3–H···6:N1,anionic,A,0.2036,13
+between systems (diff vs control),DELTA G gas,rho 17:N3–H···6:N1,anionic,all,0.2036,13
+between systems (diff vs control),DELTA G gas,rho 17:N6–H···6:O4,all,U,0.01587,12
+between systems (diff vs control),DELTA G gas,rho 17:N6–H···6:O4,all,all,0.01587,12
+between systems (diff vs control),DELTA G gas,rho 17:N6–H···6:O4,anionic,U,-0.04867,8
+between systems (diff vs control),DELTA G gas,rho 17:N6–H···6:O4,anionic,all,-0.04867,8
+between systems (diff vs control),DELTA G gas,rho 6:C2–H···17:O2,all,A,0.004765,17
+between systems (diff vs control),DELTA G gas,rho 6:C2–H···17:O2,all,all,0.004765,17
+between systems (diff vs control),DELTA G gas,rho 6:C2–H···17:O2,anionic,A,0.2864,13
+between systems (diff vs control),DELTA G gas,rho 6:C2–H···17:O2,anionic,all,0.2864,13
+between systems (diff vs control),DELTA G gas,rho 6:N1–H···15:N3,all,GC,-0.3034,17
+between systems (diff vs control),DELTA G gas,rho 6:N1–H···15:N3,all,all,-0.3034,17
+between systems (diff vs control),DELTA G gas,rho 6:N1–H···15:N3,anionic,GC,-0.1026,13
+between systems (diff vs control),DELTA G gas,rho 6:N1–H···15:N3,anionic,all,-0.1026,13
+between systems (diff vs control),DELTA G gas,rho 6:N2–H···15:O2,all,GC,-0.4438,17
+between systems (diff vs control),DELTA G gas,rho 6:N2–H···15:O2,all,all,-0.4438,17
+between systems (diff vs control),DELTA G gas,rho 6:N2–H···15:O2,anionic,GC,0.1486,13
+between systems (diff vs control),DELTA G gas,rho 6:N2–H···15:O2,anionic,all,0.1486,13
+between systems (diff vs control),DELTA G gas,rho 6:N3–H···17:N1,all,U,-0.6222,12
+between systems (diff vs control),DELTA G gas,rho 6:N3–H···17:N1,all,all,-0.6222,12
+between systems (diff vs control),DELTA G gas,rho 6:N3–H···17:N1,anionic,U,0.4783,8
+between systems (diff vs control),DELTA G gas,rho 6:N3–H···17:N1,anionic,all,0.4783,8
+between systems (diff vs control),DELTA G gas,rho 6:N6–H···17:O4,all,A,0.04036,17
+between systems (diff vs control),DELTA G gas,rho 6:N6–H···17:O4,all,all,0.04036,17
+between systems (diff vs control),DELTA G gas,rho 6:N6–H···17:O4,anionic,A,-0.03385,13
+between systems (diff vs control),DELTA G gas,rho 6:N6–H···17:O4,anionic,all,-0.03385,13
+between systems (diff vs control),DELTA G gas,rho sum,all,U,-0.5879,12
+between systems (diff vs control),DELTA G gas,rho sum,all,A,0.0966,17
+between systems (diff vs control),DELTA G gas,rho sum,all,GC,-0.6709,17
+between systems (diff vs control),DELTA G gas,rho sum,all,all,-0.2784,46
+between systems (diff vs control),DELTA G gas,rho sum,anionic,U,0.4812,8
+between systems (diff vs control),DELTA G gas,rho sum,anionic,A,0.1903,13
+between systems (diff vs control),DELTA G gas,rho sum,anionic,GC,0.1445,13
+between systems (diff vs control),DELTA G gas,rho sum,anionic,all,0.2179,34
+within systems (frames),DELTA TOTAL,rho 17:C2–H···6:O2,all,U,0.3861,747
+within systems (frames),DELTA TOTAL,rho 17:N6–H···6:O4,all,U,0.09275,877
+within systems (frames),DELTA TOTAL,rho 6:N3–H···17:N1,all,U,0.0398,880
+within systems (frames),DELTA TOTAL,rho sum,all,U,0.213,746
+within systems (frames),DELTA TOTAL,rho sum,all,A,0.2411,1145
+within systems (frames),DELTA TOTAL,rho sum,all,GC,0.2275,1370
+within systems (frames),DELTA TOTAL,ellip 17:C2–H···6:O2,all,U,0.06085,747
+within systems (frames),DELTA TOTAL,ellip 17:N6–H···6:O4,all,U,0.2471,877
+within systems (frames),DELTA TOTAL,ellip 6:N3–H···17:N1,all,U,0.2395,880
+within systems (frames),DELTA TOTAL,rho 17:N3–H···6:N1,all,A,0.1434,1350
+within systems (frames),DELTA TOTAL,rho 6:C2–H···17:O2,all,A,0.299,1145
+within systems (frames),DELTA TOTAL,rho 6:N6–H···17:O4,all,A,0.0772,1350
+within systems (frames),DELTA TOTAL,ellip 17:N3–H···6:N1,all,A,0.156,1350
+within systems (frames),DELTA TOTAL,ellip 6:C2–H···17:O2,all,A,0.1115,1145
+within systems (frames),DELTA TOTAL,ellip 6:N6–H···17:O4,all,A,0.2085,1350
+within systems (frames),DELTA TOTAL,rho 15:N4–H···6:O6,all,GC,0.1288,1370
+within systems (frames),DELTA TOTAL,rho 6:N1–H···15:N3,all,GC,0.232,1370
+within systems (frames),DELTA TOTAL,rho 6:N2–H···15:O2,all,GC,0.1236,1370
+within systems (frames),DELTA TOTAL,ellip 15:N4–H···6:O6,all,GC,0.2557,1370
+within systems (frames),DELTA TOTAL,ellip 6:N1–H···15:N3,all,GC,0.06678,1370
+within systems (frames),DELTA TOTAL,ellip 6:N2–H···15:O2,all,GC,0.1797,1370
+within systems (frames),VDWAALS,rho 17:C2–H···6:O2,all,U,0.2434,747
+within systems (frames),VDWAALS,rho 17:N6–H···6:O4,all,U,0.6792,877
+within systems (frames),VDWAALS,rho 6:N3–H···17:N1,all,U,0.6913,880
+within systems (frames),VDWAALS,rho sum,all,U,0.919,746
+within systems (frames),VDWAALS,rho sum,all,A,0.9103,1145
+within systems (frames),VDWAALS,rho sum,all,GC,0.9344,1370
+within systems (frames),VDWAALS,ellip 17:C2–H···6:O2,all,U,-0.01764,747
+within systems (frames),VDWAALS,ellip 17:N6–H···6:O4,all,U,-0.1442,877
+within systems (frames),VDWAALS,ellip 6:N3–H···17:N1,all,U,-0.08879,880
+within systems (frames),VDWAALS,rho 17:N3–H···6:N1,all,A,0.7163,1350
+within systems (frames),VDWAALS,rho 6:C2–H···17:O2,all,A,0.2615,1145
+within systems (frames),VDWAALS,rho 6:N6–H···17:O4,all,A,0.6569,1350
+within systems (frames),VDWAALS,ellip 17:N3–H···6:N1,all,A,-0.03737,1350
+within systems (frames),VDWAALS,ellip 6:C2–H···17:O2,all,A,0.009835,1145
+within systems (frames),VDWAALS,ellip 6:N6–H···17:O4,all,A,-0.1003,1350
+within systems (frames),VDWAALS,rho 15:N4–H···6:O6,all,GC,0.5485,1370
+within systems (frames),VDWAALS,rho 6:N1–H···15:N3,all,GC,0.7759,1370
+within systems (frames),VDWAALS,rho 6:N2–H···15:O2,all,GC,0.6172,1370
+within systems (frames),VDWAALS,ellip 15:N4–H···6:O6,all,GC,-0.05209,1370
+within systems (frames),VDWAALS,ellip 6:N1–H···15:N3,all,GC,-0.02349,1370
+within systems (frames),VDWAALS,ellip 6:N2–H···15:O2,all,GC,-0.121,1370
+within systems (frames),EEL,rho 17:C2–H···6:O2,all,U,0.02307,747
+within systems (frames),EEL,rho 17:N6–H···6:O4,all,U,-0.6517,877
+within systems (frames),EEL,rho 6:N3–H···17:N1,all,U,-0.6452,880
+within systems (frames),EEL,rho sum,all,U,-0.8279,746
+within systems (frames),EEL,rho sum,all,A,-0.8317,1145
+within systems (frames),EEL,rho sum,all,GC,-0.8365,1370
+within systems (frames),EEL,ellip 17:C2–H···6:O2,all,U,0.02632,747
+within systems (frames),EEL,ellip 17:N6–H···6:O4,all,U,0.2962,877
+within systems (frames),EEL,ellip 6:N3–H···17:N1,all,U,0.2234,880
+within systems (frames),EEL,rho 17:N3–H···6:N1,all,A,-0.6494,1350
+within systems (frames),EEL,rho 6:C2–H···17:O2,all,A,-0.09581,1145
+within systems (frames),EEL,rho 6:N6–H···17:O4,all,A,-0.631,1350
+within systems (frames),EEL,ellip 17:N3–H···6:N1,all,A,0.1383,1350
+within systems (frames),EEL,ellip 6:C2–H···17:O2,all,A,0.04691,1145
+within systems (frames),EEL,ellip 6:N6–H···17:O4,all,A,0.2346,1350
+within systems (frames),EEL,rho 15:N4–H···6:O6,all,GC,-0.5432,1370
+within systems (frames),EEL,rho 6:N1–H···15:N3,all,GC,-0.6706,1370
+within systems (frames),EEL,rho 6:N2–H···15:O2,all,GC,-0.5172,1370
+within systems (frames),EEL,ellip 15:N4–H···6:O6,all,GC,0.1365,1370
+within systems (frames),EEL,ellip 6:N1–H···15:N3,all,GC,0.01224,1370
+within systems (frames),EEL,ellip 6:N2–H···15:O2,all,GC,0.2179,1370
+within systems (frames),EGB,rho 17:C2–H···6:O2,all,U,-0.04346,747
+within systems (frames),EGB,rho 17:N6–H···6:O4,all,U,0.5092,877
+within systems (frames),EGB,rho 6:N3–H···17:N1,all,U,0.4681,880
+within systems (frames),EGB,rho sum,all,U,0.6149,746
+within systems (frames),EGB,rho sum,all,A,0.5942,1145
+within systems (frames),EGB,rho sum,all,GC,0.5584,1370
+within systems (frames),EGB,ellip 17:C2–H···6:O2,all,U,0.01142,747
+within systems (frames),EGB,ellip 17:N6–H···6:O4,all,U,-0.2069,877
+within systems (frames),EGB,ellip 6:N3–H···17:N1,all,U,-0.1429,880
+within systems (frames),EGB,rho 17:N3–H···6:N1,all,A,0.4793,1350
+within systems (frames),EGB,rho 6:C2–H···17:O2,all,A,0.08466,1145
+within systems (frames),EGB,rho 6:N6–H···17:O4,all,A,0.457,1350
+within systems (frames),EGB,ellip 17:N3–H···6:N1,all,A,-0.1017,1350
+within systems (frames),EGB,ellip 6:C2–H···17:O2,all,A,-0.01697,1145
+within systems (frames),EGB,ellip 6:N6–H···17:O4,all,A,-0.1643,1350
+within systems (frames),EGB,rho 15:N4–H···6:O6,all,GC,0.4193,1370
+within systems (frames),EGB,rho 6:N1–H···15:N3,all,GC,0.4481,1370
+within systems (frames),EGB,rho 6:N2–H···15:O2,all,GC,0.2872,1370
+within systems (frames),EGB,ellip 15:N4–H···6:O6,all,GC,-0.02086,1370
+within systems (frames),EGB,ellip 6:N1–H···15:N3,all,GC,0.04758,1370
+within systems (frames),EGB,ellip 6:N2–H···15:O2,all,GC,-0.1357,1370

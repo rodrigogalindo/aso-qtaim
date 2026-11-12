@@ -1,0 +1,66 @@
+context,quantity,system,chem,stereo,n,replicas,sem_kind,mean,sd,sem,diff,sem_diff,z,ff_identical_to_control
+U_v3,q residue 6 linkage,control (PO),,,72,3,replicas(3),0.0664487,0.014667,0.00130687,,,,True
+U_v3,q residue 6 linkage,PS2,PS2,,72,3,replicas(3),0.0609167,0.011461,0.000989859,-0.00553208,0.00163943,-3.37439,True
+U_v3,q residue 6 linkage,Rp-PS,PS,Rp,68,3,replicas(3),0.0237062,0.0179731,0.00281341,-0.0427426,0.00310213,-13.7785,True
+U_v3,q residue 6 linkage,Sp-PS,PS,Sp,64,3,replicas(3),0.0257073,0.0166038,0.00316505,-0.0407414,0.00342425,-11.8979,True
+U_v3,q residue 6 linkage,Rp-MsPA,MsPA,Rp,50,3,replicas(2),0.0322578,0.0169738,0.000376142,-0.034191,0.00135993,-25.1418,True
+U_v3,q residue 6 linkage,Sp-MsPA,MsPA,Sp,69,3,replicas(3),0.0370083,0.0147423,0.00133433,-0.0294405,0.00186772,-15.7628,True
+U_v3,q residue 6 linkage,Rp-MP,MP,Rp,75,3,replicas(3),0.927722,0.0159699,0.00234973,0.861273,0.0026887,320.33,True
+U_v3,q residue 6 linkage,Sp-MP,MP,Sp,73,3,replicas(3),0.930784,0.0168737,0.0007153,0.864335,0.00148982,580.16,True
+U_v3,q residue 6 linkage,Rp-guan,guan,Rp,50,3,replicas(2),1.00551,0.0134371,0.000502142,0.939057,0.00140002,670.744,True
+U_v3,q residue 6 linkage,Sp-guan,guan,Sp,73,3,replicas(3),1.00757,0.0186032,0.00316038,0.941126,0.00341993,275.189,True
+U_v3,q residue 6 linkage,2'-F,2F,,72,3,replicas(3),0.06806,0.0141587,0.000684119,0.00161125,0.00147511,1.09229,True
+U_v3,q residue 6 linkage,2'-OMe,2OMe,,71,3,replicas(3),0.0704004,0.0135858,0.00299554,0.00395167,0.00326821,1.20912,True
+U_v3,q residue 6 linkage,2'-MOE,MOE,,71,3,replicas(3),0.0640194,0.0139069,0.00108235,-0.00242931,0.00169688,-1.43164,True
+U_v3,q residue 6 sugar,control (PO),,,72,3,replicas(3),-0.799424,0.0188113,0.00333071,,,,True
+U_v3,q residue 6 sugar,PS2,PS2,,72,3,replicas(3),-0.792493,0.0169875,0.00221117,0.00693083,0.00399786,1.73363,True
+U_v3,q residue 6 sugar,Rp-PS,PS,Rp,68,3,replicas(3),-0.77561,0.0167432,0.00347764,0.0238136,0.00481535,4.94535,True
+U_v3,q residue 6 sugar,Sp-PS,PS,Sp,64,3,replicas(3),-0.781128,0.0184337,0.000964388,0.0182958,0.00346752,5.27633,True
+U_v3,q residue 6 sugar,Rp-MsPA,MsPA,Rp,50,3,replicas(2),-0.785094,0.0187476,0.00346899,0.0143299,0.00480911,2.97974,True
+U_v3,q residue 6 sugar,Sp-MsPA,MsPA,Sp,69,3,replicas(3),-0.784059,0.0188922,0.00065226,0.015365,0.00339398,4.52715,True
+U_v3,q residue 6 sugar,Rp-MP,MP,Rp,75,3,replicas(3),-0.735507,0.0165892,0.00214415,0.0639167,0.00396119,16.1357,True
+U_v3,q residue 6 sugar,Sp-MP,MP,Sp,73,3,replicas(3),-0.733995,0.0184645,0.00100398,0.0654287,0.00347874,18.8082,True
+U_v3,q residue 6 sugar,Rp-guan,guan,Rp,50,3,replicas(2),-0.766811,0.016827,0.00300994,0.0326125,0.00448925,7.26457,True
+U_v3,q residue 6 sugar,Sp-guan,guan,Sp,73,3,replicas(3),-0.775121,0.0214118,0.00221248,0.0243031,0.00399859,6.07791,True
+U_v3,q residue 6 sugar,2'-F,2F,,72,3,replicas(3),-0.81451,0.0165308,0.00170602,-0.0150864,0.00374221,-4.03141,True
+U_v3,q residue 6 sugar,2'-OMe,2OMe,,71,3,replicas(3),-0.800796,0.0153199,0.00247539,-0.00137217,0.00414984,-0.330655,True
+U_v3,q residue 6 sugar,2'-MOE,MOE,,71,3,replicas(3),-0.79935,0.0177869,0.00166476,7.41706e-05,0.00372358,0.0199192,True
+U_v3,q residue 6 base,control (PO),,,72,3,replicas(3),-0.278916,0.019189,0.00149995,,,,True
+U_v3,q residue 6 base,PS2,PS2,,72,3,replicas(3),-0.284228,0.0191894,0.00321498,-0.00531139,0.00354767,-1.49715,True
+U_v3,q residue 6 base,Rp-PS,PS,Rp,68,3,replicas(3),-0.280094,0.0185131,0.00284395,-0.0011783,0.00321527,-0.366471,True
+U_v3,q residue 6 base,Sp-PS,PS,Sp,64,3,replicas(3),-0.281983,0.019562,0.00265765,-0.00306639,0.00305172,-1.00481,True
+U_v3,q residue 6 base,Rp-MsPA,MsPA,Rp,50,3,replicas(2),-0.276573,0.0196197,0.00109469,0.00234351,0.00185694,1.26203,True
+U_v3,q residue 6 base,Sp-MsPA,MsPA,Sp,69,3,replicas(3),-0.277159,0.0180667,0.00199173,0.00175669,0.00249336,0.704548,True
+U_v3,q residue 6 base,Rp-MP,MP,Rp,75,3,replicas(3),-0.275866,0.0191082,0.00195169,0.00305024,0.00246149,1.23918,True
+U_v3,q residue 6 base,Sp-MP,MP,Sp,73,3,replicas(3),-0.279055,0.0183682,0.00222675,-0.000139231,0.00268482,-0.0518587,True
+U_v3,q residue 6 base,Rp-guan,guan,Rp,50,3,replicas(2),-0.284159,0.0154955,0.0046091,-0.00524329,0.00484703,-1.08175,True
+U_v3,q residue 6 base,Sp-guan,guan,Sp,73,3,replicas(3),-0.273463,0.0166529,0.00100057,0.00545351,0.00180306,3.02459,True
+U_v3,q residue 6 base,2'-F,2F,,72,3,replicas(3),-0.270591,0.0173279,0.00188667,0.00832556,0.00241026,3.45421,True
+U_v3,q residue 6 base,2'-OMe,2OMe,,71,3,replicas(3),-0.274554,0.0194192,0.00291788,0.00436259,0.00328084,1.32972,True
+U_v3,q residue 6 base,2'-MOE,MOE,,71,3,replicas(3),-0.271108,0.0203207,0.00244932,0.00780766,0.00287212,2.71844,True
+U_v3,q residue 6 nucleotide,control (PO),,,72,3,replicas(3),-1.01189,0.0236928,0.00161254,,,,True
+U_v3,q residue 6 nucleotide,PS2,PS2,,72,3,replicas(3),-1.0158,0.0168863,0.00138747,-0.00391264,0.00212729,-1.83926,True
+U_v3,q residue 6 nucleotide,Rp-PS,PS,Rp,68,3,replicas(3),-1.032,0.0205485,0.0031242,-0.0201073,0.00351581,-5.7191,True
+U_v3,q residue 6 nucleotide,Sp-PS,PS,Sp,64,3,replicas(3),-1.0374,0.0199501,0.000632648,-0.025512,0.0017322,-14.7281,True
+U_v3,q residue 6 nucleotide,Rp-MsPA,MsPA,Rp,50,3,replicas(2),-1.02941,0.0231572,0.00493983,-0.0175176,0.00519636,-3.37112,True
+U_v3,q residue 6 nucleotide,Sp-MsPA,MsPA,Sp,69,3,replicas(3),-1.02421,0.0176762,0.00146148,-0.0123188,0.00217628,-5.66046,True
+U_v3,q residue 6 nucleotide,Rp-MP,MP,Rp,75,3,replicas(3),-0.0836513,0.0199242,0.0014918,0.92824,0.00219675,422.551,True
+U_v3,q residue 6 nucleotide,Sp-MP,MP,Sp,73,3,replicas(3),-0.0822666,0.0171156,0.00226903,0.929625,0.00278366,333.958,True
+U_v3,q residue 6 nucleotide,Rp-guan,guan,Rp,50,3,replicas(2),-0.0454646,0.0172463,0.00109702,0.966427,0.00195031,495.524,True
+U_v3,q residue 6 nucleotide,Sp-guan,guan,Sp,73,3,replicas(3),-0.0410088,0.0189272,0.00177506,0.970882,0.00239815,404.847,True
+U_v3,q residue 6 nucleotide,2'-F,2F,,72,3,replicas(3),-1.01704,0.0184873,0.00185687,-0.00514958,0.00245932,-2.0939,True
+U_v3,q residue 6 nucleotide,2'-OMe,2OMe,,71,3,replicas(3),-1.00495,0.0195952,0.00566805,0.0069421,0.00589297,1.17803,True
+U_v3,q residue 6 nucleotide,2'-MOE,MOE,,71,3,replicas(3),-1.00644,0.0187825,0.00137269,0.00545252,0.00211767,2.57477,True
+U_v3,q partner nucleotide,control (PO),,,72,3,replicas(3),-0.983274,0.0212341,0.00290277,,,,True
+U_v3,q partner nucleotide,PS2,PS2,,72,3,replicas(3),-0.982015,0.0210636,0.0015677,0.00125917,0.00329906,0.381675,True
+U_v3,q partner nucleotide,Rp-PS,PS,Rp,68,3,replicas(3),-0.979353,0.0190085,0.000740369,0.00392109,0.0029957,1.30891,True
+U_v3,q partner nucleotide,Sp-PS,PS,Sp,64,3,replicas(3),-0.981601,0.01882,0.00103007,0.00167311,0.00308012,0.543196,True
+U_v3,q partner nucleotide,Rp-MsPA,MsPA,Rp,50,3,replicas(2),-0.984164,0.0171675,0.00231057,-0.000890311,0.0037101,-0.23997,True
+U_v3,q partner nucleotide,Sp-MsPA,MsPA,Sp,69,3,replicas(3),-0.982028,0.0210694,0.00277949,0.00124548,0.00401891,0.309906,True
+U_v3,q partner nucleotide,Rp-MP,MP,Rp,75,3,replicas(3),-0.980079,0.0191105,0.000621958,0.00319536,0.00296865,1.07637,True
+U_v3,q partner nucleotide,Sp-MP,MP,Sp,73,3,replicas(3),-0.981713,0.020386,0.00176082,0.00156088,0.00339508,0.459746,True
+U_v3,q partner nucleotide,Rp-guan,guan,Rp,50,3,replicas(2),-0.97672,0.0162082,0.00532427,0.00655429,0.00606415,1.08082,True
+U_v3,q partner nucleotide,Sp-guan,guan,Sp,73,3,replicas(3),-0.981455,0.0174852,0.00190316,0.00181841,0.00347103,0.523881,True
+U_v3,q partner nucleotide,2'-F,2F,,72,3,replicas(3),-0.977168,0.0176499,0.00180497,0.00610611,0.00341818,1.78636,True
+U_v3,q partner nucleotide,2'-OMe,2OMe,,71,3,replicas(3),-0.985826,0.0181658,0.00263326,-0.00255174,0.0039192,-0.651088,True
+U_v3,q partner nucleotide,2'-MOE,MOE,,71,3,replicas(3),-0.99175,0.019469,0.000391651,-0.00847611,0.00292907,-2.89379,True

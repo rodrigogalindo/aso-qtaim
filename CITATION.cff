@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use these data, please cite the article."
+title: "QTAIM charges and base-pair electron densities of chemically modified antisense oligonucleotides: data and scripts"
+authors:
+  - family-names: Galindo-Murillo
+    given-names: Rodrigo
+  - family-names: Cortés-Guzmán
+    given-names: Fernando
+license: CC-BY-4.0
+repository-code: "https://github.com/rodrigogalindo/aso-qtaim"
