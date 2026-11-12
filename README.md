@@ -52,16 +52,17 @@ They are available from the authors on request.
 
 ## Scripts
 
-Python 3 with numpy, pandas and matplotlib. The scripts are the versions used for the article. They expect
+Python 3 with numpy and pandas (matplotlib is imported by some modules). The scripts are the versions used for the article. They expect
 the original project directory layout and are provided to document the analysis; the parsed data in `qtaim/`
 can be used directly.
 
 * `collect_qtaim.py`, `collect_qtaim_safe.py`: parse AIMAll `.sum` files into the `qtaim/*.csv` tables (QC, atom → group assignment from the topology).
 * `compare_systems.py`, `make_preliminary.py`, `qtaim_local.py`: loading, paired-frame selection, statistics
   (SEM across replica means when ≥ 2 replicas have ≥ 10 frames, otherwise block SEM; SEM of a difference = √(SEM₁² + SEM₂²)).
-* `make_figures.py`, `make_si_figures.py`, `make_dq_maps.py`, `make_atom_dn.py`, `npa_groups.py`,
-  `rho_decomposition.py`, `binding_energy.py`, `make_latex_tables.py`: figures and tables; `text_numbers.py`: numbers quoted in the text.
-* `run_rev01_analysis.sh`: order in which they were run.
+* `make_atom_dn.py`, `npa_groups.py`, `rho_decomposition.py`, `binding_energy.py`, `make_latex_tables.py`: result
+  tables; `text_numbers.py`: numbers quoted in the text. The `results/summary_<context>.csv` tables are written by
+  `qtaim_local.compare`. Plotting scripts are not included.
+* `run_rev01_analysis.sh`: order in which the steps were run (it also lists the plotting steps, which are not included).
 * `make_gaussian_input_from_pdb.py`, `extract_central_bp.py`: fragment extraction and capping.
 
 ## Licence
